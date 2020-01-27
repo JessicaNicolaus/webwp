@@ -1,0 +1,33 @@
+[Mon Jan 27 19:12:22.780907 2020] [ssl:warn] [pid 22364:tid 672] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Jan 27 19:12:22.808866 2020] [ssl:warn] [pid 22364:tid 672] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Jan 27 19:12:22.845734 2020] [mpm_winnt:notice] [pid 22364:tid 672] AH00455: Apache/2.4.41 (Win64) OpenSSL/1.1.1c PHP/7.3.13 configured -- resuming normal operations
+[Mon Jan 27 19:12:22.845734 2020] [mpm_winnt:notice] [pid 22364:tid 672] AH00456: Apache Lounge VC15 Server built: Aug 11 2019 12:20:04
+[Mon Jan 27 19:12:22.845734 2020] [core:notice] [pid 22364:tid 672] AH00094: Command line: 'C:\\Bitnami\\web1\\apache2\\bin\\httpd.exe -d C:/Bitnami/web1/apache2 -f C:\\Bitnami\\web1\\apache2\\conf\\httpd.conf'
+[Mon Jan 27 19:12:22.847729 2020] [mpm_winnt:notice] [pid 22364:tid 672] AH00418: Parent: Created child process 18664
+[Mon Jan 27 19:12:23.074123 2020] [ssl:warn] [pid 18664:tid 604] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Jan 27 19:12:23.095067 2020] [ssl:warn] [pid 18664:tid 604] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Jan 27 19:12:23.109053 2020] [mpm_winnt:notice] [pid 18664:tid 604] AH00354: Child: Starting 64 worker threads.
+[Mon Jan 27 19:12:28.813606 2020] [mpm_winnt:notice] [pid 22364:tid 672] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Jan 27 19:12:30.814953 2020] [mpm_winnt:notice] [pid 18664:tid 604] AH00364: Child: All worker threads have exited.
+[Mon Jan 27 19:12:30.831957 2020] [mpm_winnt:notice] [pid 22364:tid 672] AH00430: Parent: Child process 18664 exited successfully.
+[Mon Jan 27 19:12:32.417852 2020] [ssl:warn] [pid 16296:tid 672] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Jan 27 19:12:32.446769 2020] [ssl:warn] [pid 16296:tid 672] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Jan 27 19:12:32.460732 2020] [mpm_winnt:notice] [pid 16296:tid 672] AH00455: Apache/2.4.41 (Win64) OpenSSL/1.1.1c PHP/7.3.13 configured -- resuming normal operations
+[Mon Jan 27 19:12:32.460732 2020] [mpm_winnt:notice] [pid 16296:tid 672] AH00456: Apache Lounge VC15 Server built: Aug 11 2019 12:20:04
+[Mon Jan 27 19:12:32.460732 2020] [core:notice] [pid 16296:tid 672] AH00094: Command line: 'C:\\Bitnami\\web1\\apache2\\bin\\httpd.exe -d C:/Bitnami/web1/apache2 -f C:\\Bitnami\\web1\\apache2\\conf\\httpd.conf'
+[Mon Jan 27 19:12:32.462698 2020] [mpm_winnt:notice] [pid 16296:tid 672] AH00418: Parent: Created child process 18492
+[Mon Jan 27 19:12:32.694079 2020] [ssl:warn] [pid 18492:tid 616] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Jan 27 19:12:32.720044 2020] [ssl:warn] [pid 18492:tid 616] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Jan 27 19:12:32.734001 2020] [mpm_winnt:notice] [pid 18492:tid 616] AH00354: Child: Starting 64 worker threads.
+[Mon Jan 27 19:12:41.691809 2020] [mpm_winnt:notice] [pid 16296:tid 672] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Jan 27 19:12:43.693068 2020] [mpm_winnt:notice] [pid 18492:tid 616] AH00364: Child: All worker threads have exited.
+[Mon Jan 27 19:12:43.709101 2020] [mpm_winnt:notice] [pid 16296:tid 672] AH00430: Parent: Child process 18492 exited successfully.
+[Mon Jan 27 19:12:45.291009 2020] [ssl:warn] [pid 22312:tid 696] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Jan 27 19:12:45.319930 2020] [ssl:warn] [pid 22312:tid 696] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Jan 27 19:12:45.332891 2020] [mpm_winnt:notice] [pid 22312:tid 696] AH00455: Apache/2.4.41 (Win64) OpenSSL/1.1.1c PHP/7.3.13 configured -- resuming normal operations
+[Mon Jan 27 19:12:45.332891 2020] [mpm_winnt:notice] [pid 22312:tid 696] AH00456: Apache Lounge VC15 Server built: Aug 11 2019 12:20:04
+[Mon Jan 27 19:12:45.332891 2020] [core:notice] [pid 22312:tid 696] AH00094: Command line: 'C:\\Bitnami\\web1\\apache2\\bin\\httpd.exe -d C:/Bitnami/web1/apache2 -f C:\\Bitnami\\web1\\apache2\\conf\\httpd.conf'
+[Mon Jan 27 19:12:45.334885 2020] [mpm_winnt:notice] [pid 22312:tid 696] AH00418: Parent: Created child process 21696
+[Mon Jan 27 19:12:45.662296 2020] [ssl:warn] [pid 21696:tid 548] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Jan 27 19:12:45.688365 2020] [ssl:warn] [pid 21696:tid 548] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Jan 27 19:12:45.702295 2020] [mpm_winnt:notice] [pid 21696:tid 548] AH00354: Child: Starting 64 worker threads.

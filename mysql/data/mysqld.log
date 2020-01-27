@@ -1,0 +1,17 @@
+2020-01-27T22:10:47.127809Z 0 [Warning] [MY-011068] [Server] The syntax 'expire-logs-days' is deprecated and will be removed in a future release. Please use binlog_expire_logs_seconds instead.
+2020-01-27T22:10:47.127931Z 0 [System] [MY-013169] [Server] C:\Bitnami\web1\mysql\bin\mysqld.exe (mysqld 8.0.18) initializing of server in progress as process 19032
+2020-01-27T22:10:49.165294Z 0 [Warning] [MY-010161] [Server] You need to use --log-bin to make --expire_logs_days work.
+2020-01-27T22:10:49.434296Z 5 [Warning] [MY-010453] [Server] root@localhost is created with an empty password ! Please consider switching off the --initialize-insecure option.
+2020-01-27T22:10:51.674142Z 0 [Warning] [MY-011068] [Server] The syntax 'expire-logs-days' is deprecated and will be removed in a future release. Please use binlog_expire_logs_seconds instead.
+2020-01-27T22:10:51.674226Z 0 [System] [MY-010116] [Server] C:\Bitnami\web1\mysql\bin\mysqld.exe (mysqld 8.0.18) starting as process 7952
+2020-01-27T22:10:52.349553Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2020-01-27T22:10:52.390428Z 0 [System] [MY-010931] [Server] C:\Bitnami\web1\mysql\bin\mysqld.exe: ready for connections. Version: '8.0.18'  socket: ''  port: 3307  MySQL Community Server - GPL.
+2020-01-27T22:10:52.427424Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2020-01-27T22:11:33.327639Z 12 [System] [MY-013172] [Server] Received SHUTDOWN from user root. Shutting down mysqld (Version: 8.0.18).
+2020-01-27T22:11:33.328159Z 0 [System] [MY-013105] [Server] C:\Bitnami\web1\mysql\bin\mysqld.exe: Normal shutdown.
+2020-01-27T22:11:34.343166Z 0 [System] [MY-010910] [Server] C:\Bitnami\web1\mysql\bin\mysqld.exe: Shutdown complete (mysqld 8.0.18)  MySQL Community Server - GPL.
+2020-01-27T22:12:13.073065Z 0 [Warning] [MY-011068] [Server] The syntax 'expire-logs-days' is deprecated and will be removed in a future release. Please use binlog_expire_logs_seconds instead.
+2020-01-27T22:12:13.073147Z 0 [System] [MY-010116] [Server] C:\Bitnami\web1\mysql\bin\mysqld.exe (mysqld 8.0.18) starting as process 17108
+2020-01-27T22:12:13.727879Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2020-01-27T22:12:13.794802Z 0 [System] [MY-010931] [Server] C:\Bitnami\web1\mysql\bin\mysqld.exe: ready for connections. Version: '8.0.18'  socket: ''  port: 3307  MySQL Community Server - GPL.
+2020-01-27T22:12:13.858505Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
